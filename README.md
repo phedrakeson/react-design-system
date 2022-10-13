@@ -1,4 +1,4 @@
-# Labs Design System (https://www.rocketseat.com.br/)
+# Labs Design System
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/phedrakeson/react-design-system?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/phedrakeson/react-design-system?style=for-the-badge)
