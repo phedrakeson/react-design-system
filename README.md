@@ -10,6 +10,12 @@
 
 > Projeto criado durante o Ignite Labs de Design System da Rocketseat (https://www.rocketseat.com.br/)
 
+### Links
+
+- Protótipo: https://www.figma.com/file/rAzKSmwIiJvrHzbOkdi1JZ/Ignite-Labs-%2F-Design-System?node-id=1%3A2
+- Storybook: https://phedrakeson.github.io/react-design-system/
+- Deploy (Exemplo de uso dos componentes): https://react-design-system-gamma.vercel.app/
+
 ### Tecnologias e Patterns
 
 - React
